@@ -18,7 +18,7 @@
     "graphql-server-lambda": "^0.6.0",
     "graphql-tools": "^0.10.0",
     "lodash.chunk": "^4.2.0",
-    "moment": "^2.17.1",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.11",
     "morgan": "^1.8.1",
     "node-fetch": "^1.6.3",
