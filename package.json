@@ -12,7 +12,7 @@
     "@reactivex/rxjs": "^5.2.0",
     "body-parser": "^1.17.0",
     "cors": "^2.8.1",
-    "express": "^4.15.0",
+    "express": "^4.17.3",
     "graphql": "^0.9.1",
     "graphql-server-express": "^0.6.0",
     "graphql-server-lambda": "^0.6.0",
